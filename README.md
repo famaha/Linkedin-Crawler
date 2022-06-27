@@ -7,11 +7,18 @@
 
  -Also items in the requirements.txt must be installed (pip install -r requirements.txt).
 # How it works
- -Open chrome browser
- -Access linkedin login page
- -Access page with all your connections
- -Access page by page to get the profile links of each person
- -Access the profile to extract : name, location and description
- -Write the result in Linkedin.db
+ -Open chrome browser.
+
+ -Access linkedin login page.
+
+ -Access page with all your connections.
+
+ -Access page by page to get the profile links of each person.
+
+ -Access the profile to extract : name, location and description.
+
+ -Write the result in Linkedin.db.
+
+ -Log the result in linkedinlog.log
 
 
