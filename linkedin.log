@@ -4,7 +4,7 @@
 {'Name': 'fatima mahdavi', 'Location': 'Tehran, Tehran, Iran', 'about': 'Attended Amirkabir University of Technology - Tehran Polytechnic', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'Shahrzad Haji Amin Shirazi', 'Location': 'Riverside, California, United States', 'about': 'Research Assistant at University of California, Riverside', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'Saeedeh Momtazi', 'Location': 'Iran', 'about': 'Associate Professor of Artificial Intelligence at Amirkabir University of Technology', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
-{'Name': 'Mohammad Hossein Jamaati', 'Location': 'Tehran, Iran', 'about': 'Industrial engineer @ Sharif university of technology � PMO @ TURKAPP.IR |��ј ǁ', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
+{'Name': 'Mohammad Hossein Jamaati', 'Location': 'Tehran, Iran', 'about': 'Industrial engineer @ Sharif university of technology • PMO @ TURKAPP.IR |ÊæÑ˜ Ç', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'Ahmad Rahbari', 'Location': 'Iran', 'about': 'Management at presenter marine service & security equipment', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'Maryam Amir Haeri', 'Location': 'Germany', 'about': 'Assistant Professor at University of Twente', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'Ahmadreza Khakpour', 'Location': 'Tehran, Iran', 'about': 'MBA Student at University of Tehran | Junior HR Specialist at SnappTrip!', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
@@ -17,7 +17,7 @@
 {'Name': 'Mehry Moosaei', 'Location': 'Iran', 'about': 'Student at Sharif University of Technology', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'Vajihe Tarahomi', 'Location': 'Iran', 'about': 'Student at Amirkabir University of Technology - Tehran Polytechnic - Secure Computing', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'Gita Tabe Jamaat', 'Location': 'Iran', 'about': 'Student at Amirkabir University of Technology - Tehran Polytechnic', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
-{'Name': 'Wilschi Wilsch', 'Location': 'Gr�nwald, Bavaria, Germany', 'about': 'Der Wilsch-Avatar', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
+{'Name': 'Wilschi Wilsch', 'Location': 'Grünwald, Bavaria, Germany', 'about': 'Der Wilsch-Avatar', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'afshin khaleghi', 'Location': 'Tehran, Iran', 'about': 'Software developer and founder of Zhikam & AK WEB', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'Soudeh Nilforoushan', 'Location': 'London, Ontario, Canada', 'about': 'Research Assistant | Teaching Assistant at Western University', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
 {'Name': 'Reza Danesh', 'Location': 'Montreal, Quebec, Canada', 'about': 'Software Project Manager', 'time': datetime.datetime(2022, 6, 27, 16, 51, 23, 386413)}
