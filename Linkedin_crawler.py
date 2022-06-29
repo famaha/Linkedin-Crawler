@@ -14,7 +14,7 @@ class Crawler:
     def Login(self):
         userid = str(input("Enter email address or number with country code: "))
         password = getpass.getpass('Enter your password:')
-        self.driver = webdriver.Chrome("C:\\Users\\F.Mahmoudi\\Downloads\\chromedriver.exe")
+        self.driver = webdriver.Chrome("C:\\Your\\Path\\Chrome\\Driver")
         self.driver.get("https://linkedin.com/uas/login")
         # waiting for the page to load
         time.sleep(5)
@@ -94,7 +94,7 @@ class Crawler:
 
     def log(self,name,location,about,list):
 
-        with open(r'C:\Users\F.Mahmoudi\Dropbox\My PC (F-MAHMOUDI)\Desktop\linkedinlog.log', 'a') as fp:
+        with open(r'C:\Your\\Path\\Log\\File', 'a') as fp:
             input = {"Name": name, "Location":location,"about": about,"time":datetime.now()}
             fp.write(f"{input}\n")
             for item in list:
